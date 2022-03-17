@@ -4,7 +4,7 @@
     <el-breadcrumb style="padding-bottom:15px " separator="/">
       <el-breadcrumb-item :to="{ path: '/main' }">首页</el-breadcrumb-item>
       <el-breadcrumb-item>活动用户表</el-breadcrumb-item>
-      <el-breadcrumb-item>正在进行</el-breadcrumb-item>
+      <el-breadcrumb-item>已结束</el-breadcrumb-item>
     </el-breadcrumb>
     <p>0:已结束 1:正在进行</p>
     <!--    页面内容-->
